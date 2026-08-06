@@ -5,6 +5,8 @@ For this project I created a <ins>F1 pencil holder</ins> on OnShape and I 3D pri
 
 #### BOM:
 Bambu Lab Red PLA Basic
+
 Bambu Lab Black PLA Basic
+
 https://github.com/user-attachments/assets/25a3f18a-e8d1-4e66-8658-8de4babb5c55
 
