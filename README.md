@@ -8,5 +8,8 @@ Bambu Lab Red PLA Basic
 
 Bambu Lab Black PLA Basic
 
+<img width="287" height="412" alt="image" src="https://github.com/user-attachments/assets/47b2c1b2-5519-48f6-8261-207c9233512c" />
+
+
 https://github.com/user-attachments/assets/25a3f18a-e8d1-4e66-8658-8de4babb5c55
 
